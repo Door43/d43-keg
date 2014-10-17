@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[keg:home|Door43 (keg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-keg|d43-keg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-keg/archive/master.zip|d43-keg.zip]]
+
+**Recent Changes**
+{{changes>ns = keg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/keg|Ethnologue data]]
+
